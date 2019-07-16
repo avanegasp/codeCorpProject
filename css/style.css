@@ -1,0 +1,83 @@
+/* logo */
+.logo{
+  height: 70px;
+  width: auto;
+}
+
+/* us services contact */
+.us{
+  text-align: right;
+}
+
+.services{
+  text-align: center;
+}
+
+.contact{
+  text-align: left;
+}
+
+/*  */
+
+/* banner1 */
+
+.banner1{
+  margin-top: 20px;
+  width: -webkit-fill-available;
+}
+
+/* buttons landing */
+
+.buttons-landing{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.button1{
+  text-align: center;
+}
+
+.button2{
+  text-align: center;
+}
+
+/* fan pages */
+
+.facebook{
+  text-align: right;
+  /* margin-right: 145px; */
+}
+
+.facebook-icon{
+  margin-right: -145px;
+}
+
+.instagram{
+  text-align: center;
+}
+
+.youtube{
+  text-align: left;
+}
+
+.youtube-icon{
+  margin-left: -145px;
+}
+
+.fan-pages{
+  margin-bottom: 100px;
+}
+
+/* Footer */
+
+footer{
+  background-color: grey;
+}
+.footer1{
+  text-align: right;
+  color: white;
+}
+
+.footer2{
+  color: white;
+}
