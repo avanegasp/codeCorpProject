@@ -81,3 +81,57 @@ footer{
 .footer2{
   color: white;
 }
+
+/* Modal verMás */
+
+.modal1 img{
+  width: inherit;
+}
+
+.modal1-title{
+  margin-left: 75px;
+  margin-top: 20px;
+  color:#4400FF;
+}
+
+.modal1-paragraph{
+  margin-left: 45px;
+}
+
+.modal1-logo{
+  width: inherit;
+}
+
+.facebook-icon{
+  margin-right: -145px;
+}
+
+.instagram{
+  text-align: center;
+}
+
+.youtube{
+  text-align: left;
+}
+
+.youtube-icon{
+  margin-left: -145px;
+}
+
+/* fanpages2 */
+.fan-pages2{
+  margin-top: 20px;
+}
+
+.facebook2-icon{
+  margin-right: -45px;
+}
+
+.youtube2-icon{
+  margin-left: -45px;
+}
+
+.modal1-follow{
+  margin-top: 20px;
+  margin-left: 20px;
+}
