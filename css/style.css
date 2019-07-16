@@ -135,3 +135,26 @@ footer{
   margin-top: 20px;
   margin-left: 20px;
 }
+
+/* Modal2 */
+
+.modal2 img{
+  width: inherit;
+}
+
+.modal2-title{
+  margin-left: 75px;
+  margin-top: 20px;
+  color:#4400FF;
+}
+
+.modal2-paragraph{
+  margin-top: 20px;
+  margin-left: 45px;
+}
+
+/* Form */
+
+.text-center{
+  margin-bottom: 30px;
+}
